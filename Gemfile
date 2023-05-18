@@ -73,3 +73,9 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "bunny", "~> 2.20"
+
+gem "sneakers", "~> 2.11"
+
+gem "pry", "~> 0.14.2"
